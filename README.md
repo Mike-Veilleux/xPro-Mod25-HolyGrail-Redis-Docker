@@ -1,1 +1,1 @@
-# xPro-Mod25-HolyGrail-Redis-Docker
+# xPro Module 25 Holy Grail with Redis on Docker
